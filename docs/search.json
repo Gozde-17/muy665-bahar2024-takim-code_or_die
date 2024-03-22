@@ -240,10 +240,7 @@
     "href": "takim.html",
     "title": "Takım Üyeleri",
     "section": "",
-    "text": "Takım Üyelerimizin detaylı özgemişlerinin yer aldığı kişisel sayfalarına gitmek için sol menüyü veya aşağıdaki linkleri kullanabilirsiniz.\n\nTakım Üyeleri\n\nEdin_Džeko\nDušan Tadić\nFrederico Rodrigues de Paula Santos\nSebastian Szymański\n\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Takım Üyeleri"
-    ]
+    "text": "Takım Üyelerimizin detaylı özgemişlerinin yer aldığı kişisel sayfalarına gitmek için sol menüyü veya aşağıdaki linkleri kullanabilirsiniz.\n\nTakım Üyeleri\n\nSafinaz Öksüz\nBetül Teke Sarıyer\nHazal Akbulut Bıyık\nOğuzhan Sarıyer\nGözde Tekin\nGörkem Yalın\nsait Fidan\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "proje.html",
@@ -550,5 +547,26 @@
       "Takım Üyeleri",
       "Dusan Tadic"
     ]
+  },
+  {
+    "objectID": "takim/safinazoksuz.html#işler",
+    "href": "takim/safinazoksuz.html#işler",
+    "title": "Safinaz Öksüz",
+    "section": "İşler",
+    "text": "İşler\n\nadesso Turkey, Ar-Ge Uzmanı, 2024\nPapilon Savunma, Ar-Ge Uzmanı,2021 -2023\nMarmara Üniversitesi Teknopark, Proje Uzmanı, 2021-2021"
+  },
+  {
+    "objectID": "takim/safinazoksuz.html#stajlar",
+    "href": "takim/safinazoksuz.html#stajlar",
+    "title": "Safinaz Öksüz",
+    "section": "Stajlar",
+    "text": "Stajlar\n\nBioMarin Pharmaceutical, Stajyer,2019\nIoannina Üniversitesi Biyoteknoloji Araştırma Merkezi , Stajyer, 2017"
+  },
+  {
+    "objectID": "takim/safinazoksuz.html",
+    "href": "takim/safinazoksuz.html",
+    "title": "Safinaz Öksüz",
+    "section": "",
+    "text": "{fig-align=“center” “width=280”}"
   }
 ]
