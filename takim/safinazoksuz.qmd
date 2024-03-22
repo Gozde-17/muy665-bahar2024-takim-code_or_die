@@ -2,26 +2,28 @@
 title: "Safinaz Öksüz"
 ---
 
-![](/assets/images/safinazoksuz.jpg){fig-align="center"}
+(/assets/images/safnazoksuz.jpg){fig-align="center"}
 
 # Eğitim
 
--   Lisans, ................................., .................................... Üniversitesi, Türkiye, 20xx - 20xx.
--   Yüksek Lisans, Endüstri Mühendisliği, Hacettepe Üniversitesi, Türkiye, 20xx - devam ediyor.
+-   Lisans, Biyomühendislik, Marmara Üniversitesi, Türkiye, 2014 - 2020.
+-   Yüksek Lisans, Mühendislik Yönetimi, Hacettepe Üniversitesi, Türkiye, 2024- devam ediyor.
 
 # İş Deneyimi
 
 ## İşler
 
-1.  Firma xxx, pozisyon xx, yıl xxx
+1.  Firma adesso Turkey, pozisyon Ar-Ge Uzmanı, yıl 2024
 
-2.  Firma yyy, pozisyon yyy, yıl yyy
+2.  Firma Papilon Savunma, pozisyon Ar-Ge Uzmanı, yıl 2021 -2023
+
+3.  Firma Marmara Üniversitesi Teknopark, pozisyon Proje Uzmanı, yıl 2021-2021
 
 ## Stajlar
 
-1.  Firma aaa, pozisyon xx, yıl xxx
+1.  Firma BioMarin Pharmaceutical, pozisyon Stajyer, yıl 2019
 
-2.  Firma bbb, pozisyon yyy, yıl yyy
+2.  Firma Ioannina Üniversitesi Biyoteknoloji Araştırma Merkezi , pozisyon Stajyer, yıl 2017
 
 # Projeler
 
@@ -33,6 +35,6 @@ title: "Safinaz Öksüz"
 
 # Yetkinlikler
 
-R, Quarto, Git, Python
+R, Quarto, Git, Python, Jira , MSProject
 
 # Hobiler
