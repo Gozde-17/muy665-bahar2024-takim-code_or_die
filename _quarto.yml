@@ -36,10 +36,14 @@ website:
       search: true
       contents:
         - takim.qmd
-        - takim/dusantadic.qmd
-        - takim/edindzeko.qmd
-        - takim/fred.qmd  
-        - takim/szymanski.qmd  
+        - takim/safinazoksuz.qmd
+        - takim/betultekesariyer.qmd
+        - takim/hazalakbulutbiyik.qmd  
+        - takim/oguzhansariyer.qmd
+        - takim/gözdetekin.qmd
+        - takim/gorkemyalin.qmd
+        - takim/saitfidan.qmd  
+      
         
         
   page-navigation: true

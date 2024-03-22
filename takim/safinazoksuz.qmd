@@ -2,7 +2,7 @@
 title: "Safinaz Öksüz"
 ---
 
-(/assets/images/safnazoksuz.jpg){fig-align="center"}
+(/assets/images/safinazoksuz.jpg){fig-align="center"}
 
 # Eğitim
 
@@ -13,17 +13,17 @@ title: "Safinaz Öksüz"
 
 ## İşler
 
-1.  Firma adesso Turkey, pozisyon Ar-Ge Uzmanı, yıl 2024
+1.  adesso Turkey, Ar-Ge Uzmanı, 2024
 
-2.  Firma Papilon Savunma, pozisyon Ar-Ge Uzmanı, yıl 2021 -2023
+2.  Papilon Savunma, Ar-Ge Uzmanı,2021 -2023
 
-3.  Firma Marmara Üniversitesi Teknopark, pozisyon Proje Uzmanı, yıl 2021-2021
+3.  Marmara Üniversitesi Teknopark, Proje Uzmanı, 2021-2021
 
 ## Stajlar
 
-1.  Firma BioMarin Pharmaceutical, pozisyon Stajyer, yıl 2019
+1.  BioMarin Pharmaceutical, Stajyer,2019
 
-2.  Firma Ioannina Üniversitesi Biyoteknoloji Araştırma Merkezi , pozisyon Stajyer, yıl 2017
+2.  Ioannina Üniversitesi Biyoteknoloji Araştırma Merkezi ,  Stajyer, 2017
 
 # Projeler
 
